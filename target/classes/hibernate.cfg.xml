@@ -21,6 +21,7 @@
         <mapping class="com.map.Answer"></mapping>
         <mapping class="com.map1.Emp"></mapping>
         <mapping class="com.map1.Project"></mapping>
+        <mapping resource="com/mapping/xml/Person.hbm.xml"></mapping>
         
         
     </session-factory>
